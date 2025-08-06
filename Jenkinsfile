@@ -15,7 +15,6 @@ pipeline {
                 bat 'dotnet restore'
             }
         }
-
         stage('Build') {
             steps {
                 echo 'Building project'
