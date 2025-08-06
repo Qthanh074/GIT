@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TrienKhaiPM")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+932908c9f2969c5d86a4e221c728c85cfca5da5b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c842130c0ce18cacc394b870bf9ecd36cd59c3d")]
 [assembly: System.Reflection.AssemblyProductAttribute("TrienKhaiPM")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TrienKhaiPM")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
